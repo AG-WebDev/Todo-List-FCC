@@ -13,3 +13,6 @@ MY TO-DO LIST
 11. Practice chess openings.
 12. Solve chess puzzles.
 13. Check exam schedules.
+14. FCC.
+15. GIT and GitHub.
+16. Eat.
